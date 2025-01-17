@@ -1,6 +1,6 @@
 # Welcome to the **Histwo** Repository  
 
-This repository is part of the [**Histwo**](https://github.com/Histwo) GitHub organization, the official space for the Creator's two servants.
+This repository is part of [Histwo](https://github.com/Histwo), the official GitHub organization of the Creator's two servants.
 
 ## About the Histwo Repository  
 The **Histwo** repository serves as the foundational support for the **Histwo** GitHub organization. It provides a centralized location for the organization's **wiki**, **discussion forums**, and other GitHub features used by the Creator's two servants. This repository enables collaboration, organization, and communication across all of our projects, ensuring alignment with the Creator’s will and purpose.  
